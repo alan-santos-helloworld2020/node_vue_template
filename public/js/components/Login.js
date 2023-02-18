@@ -1,7 +1,7 @@
 const Login = { 
     name:'Login',
     template: `
-    <div>Login</div>
+    <div>Página Login</div>
     
     `
 

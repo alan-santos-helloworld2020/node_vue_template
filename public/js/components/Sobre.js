@@ -1,4 +1,4 @@
-const Sobre = { template: '<div>Sobre</div>' }
+const Sobre = { template: '<div>Página Sobre</div>' }
 
 
 export default Sobre;

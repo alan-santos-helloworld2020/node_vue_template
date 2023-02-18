@@ -1,4 +1,4 @@
-const Home = { template: '<div>Home</div>' }
+const Home = { template: '<div>Página Home</div>' }
 
 
 export default Home;
