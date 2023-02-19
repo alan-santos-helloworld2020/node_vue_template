@@ -1,9 +1,6 @@
 const Login = { 
     name:'Login',
-    template: `
-    <div>Página Login</div>
-    
-    `
+    template: `<div>Página Login</div>`
 
 }
 
